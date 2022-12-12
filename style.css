@@ -208,7 +208,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url("https://gamelife.tw/wp-content/uploads/2022/01/002-4.jpg") no-repeat;
+    background-image: url("https://gamelife.tw/wp-content/uploads/2022/01/002-4.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
