@@ -208,6 +208,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
+    background-color: rgba(0, 0, 0, .6);
     background-blend-mode: multiply;
     background-image: url("home-img.jpg") no-repeat;
     background-size: cover;
