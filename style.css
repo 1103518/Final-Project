@@ -85,6 +85,10 @@ section{
 }
 
 .header .logo img{
+    height: 6rem;
+}
+
+.picture{
     font-size:5px;
 }
 
