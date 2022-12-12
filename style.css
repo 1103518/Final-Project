@@ -85,7 +85,7 @@ section{
 }
 
 .header .logo img{
-    height: 100rem;
+    font-size:15px;
 }
 
 .header .navbar a{
