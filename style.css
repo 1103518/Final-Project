@@ -210,7 +210,7 @@ section{
     align-items: center;
     background-image: url(home-img.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
 }
 
 .home .content{
